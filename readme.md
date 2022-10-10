@@ -112,8 +112,7 @@
 ![shyamtala's GitHub stats](https://github-readme-stats.vercel.app/api?username=shyamtala003&show_icons=true&theme=merko)
 
 
-<p style="filter:hue-rotate(650deg) invert();"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamtala003&" alt="shyamtala003" style="border-radius:10px;" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=shyamtala003&theme=merko)](https://git.io/streak-stats)
 
 <br>
 
