@@ -111,7 +111,9 @@
 
 ![shyamtala's GitHub stats](https://github-readme-stats.vercel.app/api?username=shyamtala003&show_icons=true&theme=merko)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shyamtala003&theme=merko)](https://git.io/streak-stats)
+
+<p style="filter:hue-rotate(650deg) invert();"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamtala003&" alt="shyamtala003" style="border-radius:10px;" />
+</p>
 
 <br>
 
@@ -146,7 +148,7 @@
 
 
 ### Readme Streak Stats.
-<video src="./images/ship.webm" autoplay="true" loop="true"></video>
+<img src="./images/ship.gif">
 
 ## 
 ### Watch my contribution graph get eaten by the snake 🐍
