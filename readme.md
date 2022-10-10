@@ -141,13 +141,14 @@
   <img align="" src="./images/image.png"/>
   </a>
   
+### Readme Streak Stats.
+<img src="./images/ship.gif">
+
 </p>
 
 <br />
 
 
-### Readme Streak Stats.
-<img src="./images/ship.gif">
 
 ## 
 ### Watch my contribution graph get eaten by the snake 🐍
