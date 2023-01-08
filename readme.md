@@ -121,10 +121,22 @@
 <br />
 
 <p align="center">
-  
+
+
+  <a href="https://github.com/shyamtala003/the_palettes" width="100" style="text-align:center">
+  <img align="" src="./images/p1.png" />
+  </a>
+
+  <a href="https://github.com/shyamtala003/finance_dashboard" width="100" style="text-align:center">
+  <img align="" src="./images/p2.png" />
+  </a>
   
   <a href="https://github.com/shyamtala003/gradient_container" width="100" style="text-align:center">
   <img align="" src="./images/image(3).png" />
+  </a>
+
+  <a href="https://github.com/shyamtala003/dashboard_ui" width="100" style="text-align:center">
+  <img align="" src="./images/p4.png" />
   </a>
 
   <a href="https://github.com/shyamtala003/CoderCom">
