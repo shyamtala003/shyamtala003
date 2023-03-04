@@ -116,7 +116,7 @@
 
 <h2 align="center">My favorite projects 💻</h2>
 <br />
-<p align="center">I was asked about these four projects a lot during my interviews - so check them out.</p>
+<p align="center">I was asked about these projects a lot during my interviews - so check them out.</p>
 <br />
 <br />
 
