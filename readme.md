@@ -122,7 +122,10 @@
 
 <p align="center">
 
-
+  <a href="https://github.com/shyamtala003/my_portfolio" width="100" style="text-align:center">
+  <img align="" src="./images/imgonline-com-ua-twotoone-QsA24Z2x9M4cv.jpg" />
+  </a>
+  
   <a href="https://github.com/shyamtala003/the_palettes" width="100" style="text-align:center">
   <img align="" src="./images/p1.png" />
   </a>
