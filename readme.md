@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/shyamtala003/ineuron/master/screenshots/1.png" />
 
 <h1 align="center">Hi 👋, I'm Shyam Tala</h1>
-<h3 align="center">A passionate Full-stack developer from India(Gujarat)</h3>
+<h3 align="center">A passionate Full-stack JavaScript developer from India(Gujarat)</h3>
 
 <img align="right" alt="coding" width="100%"
     src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
@@ -20,11 +20,11 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@ShyamtTala](https://hashnode.com/@ShyamtTala)
 
-- 💬 Ask me about **Html , Css , Js , ReactJs**
+- 💬 Ask me about **Html , Css , Js , ReactJs, NodeJs, ExpressJs, MongoDB**
 
 - 📫 How to reach me **shyamtala003@gmail.com**
 
-- ⚡ Fun fact **By Profesion I am a Web Developer but by Passion I am a Farmer**
+- ⚡ Fun fact **By Profession I am a Web Developer but by Passion I am a Farmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
